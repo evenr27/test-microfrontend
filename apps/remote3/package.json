@@ -1,0 +1,8 @@
+{
+  "name": "@test-microfrontend/remote3",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "remote3"
+  }
+}
